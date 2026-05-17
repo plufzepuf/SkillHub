@@ -30,7 +30,7 @@ body {
 }
 
 .nav-btn {
-    color: #1F520A;
+    color: black;
     padding: 10px 30px;
     cursor: pointer;
     font-weight: 500;
@@ -57,8 +57,7 @@ body {
 
 #tab-main:checked ~ .site-nav .btn-to-main,
 #tab-cabinet:checked ~ .site-nav .btn-to-cabinet {
-    background-color: #1F520A;
-    color: #ffffff;
+    background-color: #eae1d1;
     font-weight: 600;
 }
 
