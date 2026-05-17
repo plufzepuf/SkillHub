@@ -630,6 +630,11 @@ body {
         grid-template-columns: 1fr;
         gap: 20px;
     }
+
+    .site-nav {
+    justify-content: center;
+
+}
     
     .hero-title {
         font-size: 38px;
